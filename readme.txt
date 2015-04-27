@@ -1,5 +1,6 @@
 === AW Simple Sorter ===
-Contributors: awarren 
+Contributors: awarren
+Donate Link: https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_id=GV5FFAWXH9BTW 
 Tags: Simple Sorter, Quicksand, Portfolio Sorting, Portfolio, Responsive, Responsive Portfolio
 Requires at least: 3.5.2
 Tested up to: 4.2
