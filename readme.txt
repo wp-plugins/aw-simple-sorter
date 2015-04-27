@@ -1,5 +1,5 @@
 === AW Simple Sorter ===
-Contributors: AndyWarren 
+Contributors: awarren 
 Tags: Simple Sorter, Quicksand, Portfolio Sorting, Portfolio, Responsive, Responsive Portfolio
 Requires at least: 3.5.2
 Tested up to: 4.2
