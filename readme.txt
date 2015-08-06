@@ -41,6 +41,9 @@ To install the plugin follow these instructions:
 
 == Changelog ==
 
+= 0.2 =
+* Update plugin documentation/readme.txt to include notice of plugin requiring wp_footer() in theme.
+
 = 0.1 =
 * Initial release.
 
