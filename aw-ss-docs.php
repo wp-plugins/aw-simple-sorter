@@ -106,7 +106,7 @@
 							
 							<p>
 								<strong>Notice:</strong><br/>
-								This plugin requires <code>&laquo;?php wp_footer(); ?&raquo;</code> to be utilized by the theme.
+								This plugin requires <code>&lsaquo;?php wp_footer(); ?&rsaquo;</code> to be utilized by the theme.
 							</p>
 
 
